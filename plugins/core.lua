@@ -24,5 +24,10 @@ return {
     "catppuccin/nvim",
     name = "catppuccin",
     opts = {},
+  },
+  {
+    "github/copilot.vim",
+    name = "copilot",
+    opts = {},
   }
 }
